@@ -256,10 +256,10 @@
           */
           let dataJson2 = '';
 
-          if (this.posicao >= 0) {
+          if (this.posicao > 0) {
             dataJson2 = JSON.stringify({posicao: this.posicao-1});
           } else {
-            dataJson2 = JSON.stringify({posicao: 0});
+            dataJson2 = JSON.stringify({posicao: 5});
           }
 
           const req2 = await fetch(`http://localhost:3000/historicoAlteracoes/6`, {
@@ -267,7 +267,6 @@
             headers: { "Content-Type" : "application/json" },
             body: dataJson2
           });
-
 
           /*Adiciona Comentário*/
           await req2.json();
@@ -278,8 +277,8 @@
             message: msg,
             time: new Date(),
             color: "deep-purple lighten-1"
+          
           }
-
           const dataJson = JSON.stringify(dado);
 
           const req = await fetch(`http://localhost:3000/historicoAlteracoes/${this.posicao}`, {
