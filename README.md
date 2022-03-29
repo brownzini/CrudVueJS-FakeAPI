@@ -1,4 +1,4 @@
-# projeto newsoft
+# Desafio Newsoft
 
 #Criado por Gabriel David da Silva
 
@@ -8,7 +8,7 @@ npm run backend
 
 ## Instalação
 ```
-npm install
+npm install ou yarn
 ```
 
 ### Inicializar
