@@ -1,0 +1,175 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Gabriel David da Silva",
+      "status": false,
+      "icon": "mdi-account"
+    },
+    {
+      "id": 2,
+      "nome": "Rodrigo Araujo",
+      "status": false,
+      "icon": "mdi-account"
+    },
+    {
+      "id": 3,
+      "nome": "Roberto Justos",
+      "status": false,
+      "icon": "mdi-account"
+    },
+    {
+      "id": 4,
+      "nome": "Rafael Leão",
+      "status": true,
+      "icon": "mdi-account"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Caixa de Leite",
+      "categoria": "laticinios",
+      "fornecedor": "fornecedor-01",
+      "valor": "5,00",
+      "horario": ""
+    },
+    {
+      "id": 2,
+      "nome": "Iogurte",
+      "categoria": "laticinios-bebida",
+      "fornecedor": "fornecedor-02",
+      "valor": "6,00",
+      "horario": ""
+    },
+    {
+      "id": 3,
+      "nome": "Queijo",
+      "categoria": "laticinios-derivados",
+      "fornecedor": "fornecedor-03",
+      "valor": "7,00",
+      "horario": ""
+    },
+    {
+      "id": 4,
+      "nome": "Soro do Leite",
+      "categoria": "laticinios-derivados",
+      "fornecedor": "fornecedor-04",
+      "valor": "15,00",
+      "horario": ""
+    },
+    {
+      "id": 5,
+      "nome": "Leite em Pó",
+      "categoria": "laticinios-derivados",
+      "fornecedor": "fornecedor-05",
+      "valor": "3,50",
+      "horario": ""
+    },
+    {
+      "id": 6,
+      "nome": "Doce de leite",
+      "categoria": "laticinios",
+      "fornecedor": "fornecedor-06",
+      "valor": "3,75",
+      "horario": ""
+    },
+    {
+      "id": 7,
+      "nome": "Sorvetes",
+      "categoria": "laticinios-derivados",
+      "fornecedor": "fornecedor-07",
+      "valor": "12,00",
+      "horario": ""
+    },
+    {
+      "id": 8,
+      "nome": "Pao de Queijo",
+      "categoria": "pao",
+      "fornecedor": "fornecedor-08",
+      "valor": "2,00",
+      "horario": ""
+    },
+    {
+      "id": 9,
+      "nome": "Pao Frânces",
+      "categoria": "pao",
+      "fornecedor": "fornecedor-09",
+      "valor": "5,00",
+      "horario": ""
+    },
+    {
+      "id": 10,
+      "nome": "Maracujá",
+      "categoria": "frutas",
+      "fornecedor": "fornecedor-10",
+      "valor": "3,00",
+      "horario": ""
+    },
+    {
+      "nome": "caixa de frutas",
+      "categoria": "alimentos",
+      "fornecedor": "fornecedor-111",
+      "valor": "R$R$7,00",
+      "data": 17,
+      "id": 19
+    }
+  ],
+  "vendas": [
+    {
+      "id": 1,
+      "produto": "Solicitado",
+      "quantidade": 0,
+      "valor": ""
+    }
+  ],
+  "historicoAlteracoes": [
+    {
+      "id": 0,
+      "from": "Rafael Leão",
+      "message": "Produto removido",
+      "time": "2022-03-28T20:32:07.877Z",
+      "color": "deep-purple lighten-1",
+      "posicao": 1
+    },
+    {
+      "id": 1,
+      "from": "Rafael Leão",
+      "message": "Produto criado",
+      "time": "2022-03-28T19:53:39.047Z",
+      "color": "deep-purple lighten-1"
+    },
+    {
+      "id": 2,
+      "from": "Rafael Leão",
+      "message": "Produto criado",
+      "time": "2022-03-28T19:53:01.626Z",
+      "color": "deep-purple lighten-1"
+    },
+    {
+      "id": 3,
+      "from": "Rafael Leão",
+      "message": "Produto criado",
+      "time": "2022-03-28T19:50:27.986Z",
+      "color": "deep-purple lighten-1"
+    },
+    {
+      "id": 4,
+      "from": "Rafael Leão",
+      "message": "Produto criado",
+      "time": "2022-03-28T19:49:29.227Z",
+      "color": "deep-purple lighten-1"
+    },
+    {
+      "id": 5,
+      "from": "Rafael Leão",
+      "message": "Produto removido",
+      "time": "2022-03-28T18:44:50.966Z",
+      "color": "deep-purple lighten-1"
+    },
+    {
+      "id": 6,
+      "posicao": -1
+    }
+  ]
+}
