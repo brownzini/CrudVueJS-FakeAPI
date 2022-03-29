@@ -1,5 +1,7 @@
 # Desafio Newsoft
 
+![desafiorapido](https://user-images.githubusercontent.com/87146770/160649168-cbd79a40-0e9c-44b5-badd-74650dfea8ac.png)
+
 #Criado por Gabriel David da Silva
 
 ## Json Server 
@@ -15,8 +17,6 @@ npm install ou yarn
 ```
 npm run serve
 ```
-![desafiorapido](https://user-images.githubusercontent.com/87146770/160649168-cbd79a40-0e9c-44b5-badd-74650dfea8ac.png)
-
 ### Compila pra produção e arquivos minificados
 ```
 npm run build
