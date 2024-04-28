@@ -1,4 +1,4 @@
-# 🤖Desafio: Estudar 1 dia vue sem conhecer nada e implementar algo no outro dia
+# 🤖Desafio: Estudao VueJS
 
 ![desafiorapido](https://user-images.githubusercontent.com/87146770/160649168-cbd79a40-0e9c-44b5-badd-74650dfea8ac.png)
 
